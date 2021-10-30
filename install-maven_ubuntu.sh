@@ -1,6 +1,6 @@
 #!/bin/bash
 
-MVN_VERSION=3.6.3
+MVN_VERSION=3.8.3
 
 function create_directories() {
   echo "Creating directory structure"
